@@ -9,7 +9,6 @@ SQL öğrenme sürecimde yaptığım temel pratikler.
 - ORDER BY
 - LIMIT / TOP
 - DISTINCT
-- INSERT
 
 ## İçerik
 - `data/ogrenciler.sql` → Örnek öğrenci tablosu (40 satır)
